@@ -31,3 +31,4 @@ It should make a dialogue box showing every spelling mistake it finds (with cont
 ## Assumptions & constraints
 - The code will be run through Calibre as a plugin with access to metadata and book files
 - External Python libraries can be used
+- The book being processes has not been read by the user and therefore any reports should not include spoilers

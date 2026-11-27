@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module Plans.md",
+                "file": "File Grading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module Plans"
+              "title": "File Grading"
             }
           }
         ]
@@ -190,8 +190,14 @@
   },
   "active": "9b683d7ed548e903",
   "lastOpenFiles": [
-    "Scope.md",
+    "Unpacker.py",
+    "FileGrader.py",
     "Module Plans.md",
+    "Scope.md",
+    "File Grading.md",
+    "TestBook.epub",
+    "ORIGINAL UNFIXED Do Androids Dream of Electric Sheep_ - Dick, Philip K_.epub",
+    "README.md",
     "Process Breakdowns/Book unpacker.md",
     "Process Breakdowns/Backup current file.md",
     "Process Breakdowns/Write each chapter to a new file.md",

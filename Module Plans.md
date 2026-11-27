@@ -9,8 +9,6 @@ Dialogue boxes
 # File Grading
 - ebooklib python library allows the accessing of raw HTML from epub contents
 - Could use Regex to search for specific things and tags
-
-
 ## Infractions:
 
 | Type                                      | Score                                                          | Description                                                             | Example                                                                         |
